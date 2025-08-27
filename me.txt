@@ -1,0 +1,14 @@
+Create a simple, professional front-end website for "Kent Computer Training Center" using HTML, CSS, and JavaScript only. 
+
+Requirements:  
+- Include at least 5 menu items (e.g., Home, About, Courses, Gallery, Contact).  
+- Use a color-friendly but professional background or image (light, modern, tech-oriented).  
+- The homepage should have a hero section with the center's name and a tagline.  
+- Add simple interactive elements using JavaScript (like menu hover effects or a slideshow in the gallery).  
+- Ensure the website is responsive for desktop and mobile.  
+- Use clean, readable fonts and layout.  
+- Include a footer with contact information and social media links.  
+- note if you;re using images from unsplash, the links must be active.
+- also leave a part for me at the logo section where i can add an image.
+- baground must not be plain white(maybe gray or aquamarine), homepage must be different from other menus. and it must strictly be "kent computer training center" not kentech or whatev
+- no bottle logos please
